@@ -1,0 +1,129 @@
+/* 4k Screen  */
+@media only screen and (min-width: 2000px) and (max-width: 2600px) {
+
+p{      font-size: 47px;
+        margin-bottom: 2rem;
+        margin-top: 4rem;
+    
+}
+
+h2, .h2{
+        margin: 23px 0 0 0;
+	font-size: 10rem;
+
+}
+
+img {
+    margin: 35px 45px 0 55px;
+}
+
+
+}
+
+
+/* Laptop Screen  */
+@media only screen and (min-width: 1400px) and (max-width: 1440px) {
+
+p{      font-size: 30px;
+        margin-bottom: 3rem;
+        margin-top: 2rem;
+}
+
+h2, .h2{
+        margin: 23px 0 0 0;
+	font-size: 7rem;
+}
+
+
+}
+
+
+/* Laptop 02 :1024px. */
+@media only screen and (min-width: 1024px) and (max-width: 1100px) {
+
+
+p{     margin-top: 4px;
+    font-size: 29px;
+    margin-bottom: 0rem;
+}
+
+h2, .h2{
+        margin: 11px 0 0 0;
+        font-size: 5rem;
+   
+}
+
+img{    margin: 20px -26px 0 34px;
+
+}
+
+}
+
+
+/* Tablet :768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+
+p{  margin-top: 4px;
+    font-size: 29px;
+    margin-bottom: 0rem;
+}
+
+h2, .h2{
+        margin: 11px 0 0 0;
+        font-size: 5rem;
+   
+}
+
+img{     margin: 3px 21px 0px 30px;
+}
+
+
+}
+
+
+/* Large Mobile :480px. */
+
+@media only screen and (max-width: 767px) {
+.container {
+  width: 450px;
+}
+
+img {
+    margin: 0px 0px 0 0px;
+}
+
+h2, .h2 {
+    font-size: 3rem;
+}
+
+p{    font-size: 18px;
+
+}
+
+/*Mobile Menu Toggle*/
+
+a.meanmenu-reveal {
+  top: -55px;
+}
+
+
+
+}
+
+
+/* small mobile :320px. */
+
+@media only screen and (min-width: 300px) and (max-width: 500px) {
+    img {
+        margin: 15px 0px 0 0px;
+    }
+h2, h2 {font-size: 38px;
+        margin: 9px;
+
+}
+
+}
+
+
+

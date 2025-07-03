@@ -1,0 +1,50 @@
+head {
+	color: black
+}
+
+
+.htext {TEXT-ALIGN: center;
+	    color: green;
+	
+	
+
+}
+
+.tu { color: red;
+
+
+}
+
+body { 
+	background: cornsilk;
+
+}
+
+
+img {     margin: 25px 16px 0 39px;
+}
+
+
+@media (min-width: 1200px) {
+    h2, .h2 {
+        font-size: 4rem;
+    }
+
+/*common 
+p {     background: cadetblue;
+}
+
+html {    background: cadetblue;
+}
+
+h2 {    background: cadetblue;
+}
+
+
+h5, .h5 {
+    color: dimgrey;
+    font-size: 1.25rem;
+    font-family: monospace;
+}
+
+start*/
